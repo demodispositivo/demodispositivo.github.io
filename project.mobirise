@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "site 01",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -133,7 +133,7 @@
               "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#020202"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -154,7 +154,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "DEMO",
               "link": "index.html",
               "title": ""
             },
@@ -187,7 +187,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "http://www.demo.pt",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -332,7 +332,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "DEMO",
               "link": "index.html",
               "title": ""
             },
@@ -1032,7 +1032,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "http://www.demo.pt",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1179,7 +1179,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "DEMO",
               "link": "index.html",
               "title": ""
             },
@@ -1337,7 +1337,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "http://www.demo.pt",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1484,7 +1484,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "DEMO",
               "link": "index.html",
               "title": ""
             },
@@ -2574,7 +2574,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "http://www.demo.pt",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2721,7 +2721,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "DEMO",
               "link": "index.html",
               "title": ""
             },
@@ -3906,7 +3906,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "http://www.demo.pt",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -4058,7 +4058,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "DEMO",
               "link": "index.html",
               "title": ""
             },
@@ -4579,7 +4579,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "http://www.demo.pt",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -4727,7 +4727,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "DEMO",
               "link": "index.html",
               "title": ""
             },
@@ -5132,7 +5132,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "http://www.demo.pt",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -5642,7 +5642,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "DEMO",
               "link": "index.html",
               "title": ""
             },
@@ -5675,7 +5675,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "http://www.demo.pt",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
