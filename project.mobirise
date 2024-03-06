@@ -24,8 +24,7 @@
         "#222222",
         "#565656",
         "#28344e",
-        "#0c34a3",
-        "#020202"
+        "#0c34a3"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -91,13 +90,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#020202",
+            "bgColor": "#000000",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -133,7 +132,7 @@
               "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#020202"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -154,7 +153,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "DEMO",
+              "alt": "Mobirise",
               "link": "index.html",
               "title": ""
             },
@@ -187,7 +186,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "index.html",
+              "link": "http://www.demo.pt",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -200,7 +199,7 @@
           },
           "text1": "",
           "text2": "<strong>Contactos</strong><br>Rua do Mercado municipal\n<br>Loja 30T <br>4835-065 Creixomil<br>Guimarães<br><br><br>demo.dispositivo@gmail<a href=\"mailto:demo.dispositivo@gmail.com\">.</a>com<br>\n96 501 26 16<br>",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demodispositivo.pt\">demodispositivo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demo.pt\">demo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
           "_tags": [
             "Layout"
           ],
@@ -269,13 +268,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#020202",
+            "bgColor": "#000000",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -332,7 +331,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "DEMO",
+              "alt": "Mobirise",
               "link": "index.html",
               "title": ""
             },
@@ -1032,7 +1031,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "index.html",
+              "link": "http://www.demo.pt",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1045,7 +1044,7 @@
           },
           "text1": "",
           "text2": "<strong>Contactos</strong><br>Rua do Mercado municipal\n<br>Loja 30T <br>4835-065 Creixomil<br>Guimarães<br><br><br>demo.dispositivo@gmail<a href=\"mailto:demo.dispositivo@gmail.com\">.</a>com<br>\n96 501 26 16<br>",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demodispositivo.pt\">demodispositivo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demo.pt\">demo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
           "_tags": [
             "Layout"
           ],
@@ -1116,13 +1115,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#020202",
+            "bgColor": "#000000",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -1179,7 +1178,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "DEMO",
+              "alt": "Mobirise",
               "link": "index.html",
               "title": ""
             },
@@ -1337,7 +1336,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "index.html",
+              "link": "http://www.demo.pt",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1350,7 +1349,7 @@
           },
           "text1": "",
           "text2": "<strong>Contactos</strong><br>Rua do Mercado municipal\n<br>Loja 30T <br>4835-065 Creixomil<br>Guimarães<br><br><br>demo.dispositivo@gmail<a href=\"mailto:demo.dispositivo@gmail.com\">.</a>com<br>\n96 501 26 16<br>",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demodispositivo.pt\">demodispositivo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demo.pt\">demo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
           "_tags": [
             "Layout"
           ],
@@ -1421,13 +1420,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#020202",
+            "bgColor": "#000000",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -1484,7 +1483,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "DEMO",
+              "alt": "Mobirise",
               "link": "index.html",
               "title": ""
             },
@@ -2177,7 +2176,7 @@
             "showArrow": true,
             "imageSize": 50,
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/theMONKEY/AppData/Local/Mobirise.com/Mobirise/projects/project-2019-05-22_201637/assets/images/imag011-1-319x213.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/imag011-1-319x213.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#efefef",
@@ -2574,7 +2573,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "index.html",
+              "link": "http://www.demo.pt",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2587,7 +2586,7 @@
           },
           "text1": "",
           "text2": "<strong>Contactos</strong><br>Rua do Mercado municipal\n<br>Loja 30T <br>4835-065 Creixomil<br>Guimarães<br><br><br>demo.dispositivo@gmail<a href=\"mailto:demo.dispositivo@gmail.com\">.</a>com<br>\n96 501 26 16<br>",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demodispositivo.pt\">demodispositivo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demo.pt\">demo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
           "_tags": [
             "Layout"
           ],
@@ -2658,13 +2657,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#020202",
+            "bgColor": "#000000",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -2700,7 +2699,7 @@
               "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#020202"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2721,7 +2720,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "DEMO",
+              "alt": "Mobirise",
               "link": "index.html",
               "title": ""
             },
@@ -2819,11 +2818,11 @@
             "inverse": true,
             "showArrow": true,
             "imageSize": "50",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/p1080380_300dpi-2000x1334.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/p1080380-300dpi-2000x1334.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2881,11 +2880,11 @@
             "inverse": true,
             "showArrow": true,
             "imageSize": "50",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/0000gsdgsdg40-1920x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2943,11 +2942,11 @@
             "inverse": true,
             "showArrow": true,
             "imageSize": 50,
-            "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/theMONKEY/AppData/Local/Mobirise.com/Mobirise/projects/project-2019-05-22_201637/assets/images/imag011-1-319x213.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/imag011-1-319x213.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3221,11 +3220,11 @@
             "inverse": true,
             "showArrow": true,
             "imageSize": "48",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/0000020167-1920x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3906,7 +3905,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "index.html",
+              "link": "http://www.demo.pt",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -3919,7 +3918,7 @@
           },
           "text1": "",
           "text2": "<strong>Contactos</strong><br>Rua do Mercado municipal\n<br>Loja 30T <br>4835-065 Creixomil<br>Guimarães<br><br><br>demo.dispositivo@gmail<a href=\"mailto:demo.dispositivo@gmail.com\">.</a>com<br>\n96 501 26 16<br>",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demodispositivo.pt\">demodispositivo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demo.pt\">demo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
           "_tags": [
             "Layout"
           ],
@@ -3995,13 +3994,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#020202",
+            "bgColor": "#000000",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -4058,7 +4057,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "DEMO",
+              "alt": "Mobirise",
               "link": "index.html",
               "title": ""
             },
@@ -4579,7 +4578,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "index.html",
+              "link": "http://www.demo.pt",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -4592,7 +4591,7 @@
           },
           "text1": "",
           "text2": "<strong>Contactos</strong><br>Rua do Mercado municipal\n<br>Loja 30T <br>4835-065 Creixomil<br>Guimarães<br><br><br>demo.dispositivo@gmail<a href=\"mailto:demo.dispositivo@gmail.com\">.</a>com<br>\n96 501 26 16<br>",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demodispositivo.pt\">demodispositivo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demo.pt\">demo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
           "_tags": [
             "Layout"
           ],
@@ -4664,13 +4663,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#020202",
+            "bgColor": "#000000",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -4706,7 +4705,7 @@
               "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#020202"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -4727,7 +4726,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "DEMO",
+              "alt": "Mobirise",
               "link": "index.html",
               "title": ""
             },
@@ -4763,11 +4762,11 @@
             "inverse": true,
             "showArrow": true,
             "imageSize": 50,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/10289802_730412007011314_8863697965446311467_n-960x640.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/10289802-730412007011314-8863697965446311467-n-960x640.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -4825,11 +4824,11 @@
             "inverse": true,
             "showArrow": true,
             "imageSize": "50",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/13076542_1128064247246086_154402500834246954_n-640x960.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/13076542-1128064247246086-154402500834246954-n-640x960.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -4891,7 +4890,7 @@
             "bgImage": "file:///C:/Users/theMONKEY/AppData/Local/Mobirise.com/Mobirise/projects/project-2019-05-22_201637/assets/images/10943660_875846015801245_8431970141516249528_n-857x482.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -4950,10 +4949,10 @@
             "showArrow": true,
             "imageSize": 50,
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/theMONKEY/AppData/Local/Mobirise.com/Mobirise/projects/project-2019-05-22_201637/assets/images/imag011-1-319x213.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/imag011-1-319x213.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5011,11 +5010,11 @@
             "inverse": true,
             "showArrow": true,
             "imageSize": 50,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1557447_730412050344643_5322320847916924156_n-960x640.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1557447-730412050344643-5322320847916924156-n-960x640.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5073,11 +5072,11 @@
             "inverse": true,
             "showArrow": true,
             "imageSize": 50,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/581843_614091988643317_609221898_n-960x540.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/581843-614091988643317-609221898-n-960x540.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5132,7 +5131,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "index.html",
+              "link": "http://www.demo.pt",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -5145,7 +5144,7 @@
           },
           "text1": "",
           "text2": "<strong>Contactos</strong><br>Rua do Mercado municipal\n<br>Loja 30T <br>4835-065 Creixomil<br>Guimarães<br><br><br>demo.dispositivo@gmail<a href=\"mailto:demo.dispositivo@gmail.com\">.</a>com<br>\n96 501 26 16<br>",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demodispositivo.pt\">demodispositivo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demo.pt\">demo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
           "_tags": [
             "Layout"
           ],
@@ -5333,6 +5332,14 @@
           "_sourceTheme": "mobirise3"
         }
       ]
+    },
+    "gotcha.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "gotcha",
+        "order": 2
+      },
+      "components": []
     },
     "page9.html": {
       "settings": {
@@ -5579,13 +5586,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#020202",
+            "bgColor": "#000000",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">QUEM SOMOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#header1-18\">IDENTIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"quem.html#features3-19\">EQUIPA</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">AGENDA<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"palco.html\">PALCO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sitespecific.html\">SITE SPECIFIC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"performance.html\">PERFORMANCE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"comunidade.html\">COMUNIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">EDUCAÇÃO</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-3\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Layout"
           ],
@@ -5642,7 +5649,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "height": 128,
-              "alt": "DEMO",
+              "alt": "Mobirise",
               "link": "index.html",
               "title": ""
             },
@@ -5675,7 +5682,7 @@
               "src": "@PROJECT_PATH@/assets/images/demo-logosquare-black-128x128.jpg",
               "width": 128,
               "active": true,
-              "link": "index.html",
+              "link": "http://www.demo.pt",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -5688,7 +5695,7 @@
           },
           "text1": "",
           "text2": "<strong>Contactos</strong><br>Rua do Mercado municipal\n<br>Loja 30T <br>4835-065 Creixomil<br>Guimarães<br><br><br>demo.dispositivo@gmail<a href=\"mailto:demo.dispositivo@gmail.com\">.</a>com<br>\n96 501 26 16<br>",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demodispositivo.pt\">demodispositivo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.demo.pt\">demo.pt</a><br><a class=\"text-primary\" href=\"http://www.demo.pt\"><br></a><a href=\"http://www.facebook.com/demo.dispositivo\" target=\"_blank\">facebook</a><br><a href=\"https://www.instagram.com/demo.dispositivo/\" target=\"_blank\">instagram</a><br><a href=\"https://www.youtube.com/user/6russianroulette/videos\" target=\"_blank\">youtube</a><br><a href=\"https://vimeo.com/user86445284\" target=\"_blank\">vimeo</a><br><a href=\"https://soundcloud.com/user-652114756/sets/sopro-salgado\" target=\"_blank\">soundcloud</a><a href=\"https://vimeo.com/user86445284\"><br></a><br>",
           "_tags": [
             "Layout"
           ],
